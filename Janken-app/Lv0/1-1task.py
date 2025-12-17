@@ -13,8 +13,8 @@
 # ・if / else
 #
 # ▼ ここから自分でコードを書け
-int(input("数値>>"))
-if"5":
+number=int(input("数値>>"))
+if number==5:
     print("正解")
 else:
     print("違います")
